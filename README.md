@@ -1,8 +1,11 @@
 ## Jeongjoon Lee
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJLee1215&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+- Medical Device Research Engineer
+  : Peptides, enzymes, polysaccharides, Nanomaterials, Conjugation, antifouling, ELISA, tissue adhesives, implant caoting
 - Tech Stack
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+
 
 <!--
 **JJLee1215/jjlee1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Medical Device Research Engineer
-- Implantable Biomedical Materials
 
 ## Career
 ### 바이오기술연구소 @ <a href="http://natureglue.com/" style="font-size: 10px;">(주)네이처글루텍(Nature Gluetech Co., Ltd.)&nbsp;</a>
