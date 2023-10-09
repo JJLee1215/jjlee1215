@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Research summary
+![Research summary](https://github.com/JJLee1215/jjlee1215/assets/128121364/1bb5071b-7cd9-4377-8ad6-205b635efc5a)
 
 ## Career
 ### 바이오기술연구소 @ <a href="http://natureglue.com/" style="font-size: 10px;">(주)네이처글루텍(Nature Gluetech Co., Ltd.)&nbsp;</a>
