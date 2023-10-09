@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Dental implant
 
 ## Career
-### 바이오기술연구소 @  <a href="http://natureglue.com/" > <h3> (주)네이처글루텍(Nature Gluetech Co., Ltd.) </h3> </a>
+### 바이오기술연구소 @  <a href="http://natureglue.com/"><h3 style="font-size: 14px;">(주)네이처글루텍(Nature Gluetech Co., Ltd.)</h3></a>
 - Bone tissue adhesive
 - Soft tissue adhesive
 - Dental implant coating
