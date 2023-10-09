@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Medical Device Research Engineer
-- Tissue adhesive
-- Dental implant
+- Implantable Biomedical Materials
 
 ## Career
 ### 바이오기술연구소 @ <a href="http://natureglue.com/" style="font-size: 10px;">(주)네이처글루텍(Nature Gluetech Co., Ltd.)&nbsp;</a>
