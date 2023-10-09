@@ -10,7 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/ELISA%20-%20gray)</a>
 ![Static Badge](https://img.shields.io/badge/Antifouling%20-%20gray)</a>
 ![Static Badge](https://img.shields.io/badge/TissueAdhesives%20-%20gray)</a>
-![Static Badge](https://img.shields.io/badge/DentalImplant%20-%20gray)</a>
+![Static Badge](https://img.shields.io/badge/DentalImplant%20-%20gray)</a>&nbsp 
 
 - Tech Stack
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
