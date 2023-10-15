@@ -15,6 +15,9 @@
 
 - Tech Stack
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/pytorch%20--%23EE4C2C">
+
+
 
 
 <!--
