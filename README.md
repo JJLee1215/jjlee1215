@@ -43,6 +43,11 @@ Here are some ideas to get you started:
 ## Research summary
 ![Research summary](https://github.com/JJLee1215/jjlee1215/assets/128121364/1bb5071b-7cd9-4377-8ad6-205b635efc5a)
 
+## Projects: my Repositories
+- ![BarcodeLess Calculator](https://github.com/JJLee1215/Final-project-Barcodeless-calculator-/tree/Model/Jeongjoon)
+- ![CAFA5 Competition](https://github.com/JJLee1215/CAFA5_competition)
+- ![DeepLearning_MNIST](https://github.com/JJLee1215/DeepLearning_MNIST)
+
 ## Career
 ### 바이오기술연구소 @ <a href="http://natureglue.com/" style="font-size: 10px;">(주)네이처글루텍(Nature Gluetech Co., Ltd.)&nbsp;</a>
 - Bone tissue adhesive
