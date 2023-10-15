@@ -14,9 +14,8 @@
 ![Static Badge](https://img.shields.io/badge/DentalImplant%20-%20gray)</a>
 
 - Tech Stack
-  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img alt="Static Badge" src="https://img.shields.io/badge/pytorch%20--%23EE4C2C"></a>
+<img src="https://img.shields.io/badge/Pytorch-#EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
 
 
 
