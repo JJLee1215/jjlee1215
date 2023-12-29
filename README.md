@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 - <a href="https://github.com/JJLee1215/Final-project-Barcodeless-calculator-/tree/Model/Jeongjoon" style="font-size: 8px;">BarcodeLess Calculator
 - <a href="https://github.com/JJLee1215/CAFA5_competition" style="font-size: 8px;">CAFA5 Competition
 - <a href="https://github.com/JJLee1215/DeepLearning_MNIST" style="font-size: 8px;">DeepLearning_MNIST
+- <a href="https://github.com/JJLee1215/SESAC_AIFinancePartner/tree/ChatandRes" style="font-size: 8px;">AI Finance partner(chatbot and Research summary)
 
 ## Career
 ### 바이오기술연구소 @ <a href="http://natureglue.com/" style="font-size: 10px;">(주)네이처글루텍(Nature Gluetech Co., Ltd.)&nbsp;</a>
