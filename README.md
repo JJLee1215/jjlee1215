@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Research summary
+## Bio-Chemical Research
 ![Research summary](https://github.com/JJLee1215/jjlee1215/assets/128121364/1bb5071b-7cd9-4377-8ad6-205b635efc5a)
 
-## Repositories
+## AI projects (Repositories)
 - <a href="https://github.com/JJLee1215/Final-project-Barcodeless-calculator-/tree/Model/Jeongjoon" style="font-size: 8px;">BarcodeLess Calculator
 - <a href="https://github.com/JJLee1215/CAFA5_competition" style="font-size: 8px;">CAFA5 Competition
 - <a href="https://github.com/JJLee1215/DeepLearning_MNIST" style="font-size: 8px;">DeepLearning_MNIST
