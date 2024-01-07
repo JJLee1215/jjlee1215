@@ -63,4 +63,4 @@ Here are some ideas to get you started:
 - Korea University, Chemical and biological engineering. (2014.03 - 2016.08)
 - Korea National Open University, Computer Science. (2022.03 - present)
 - Encore academy, Training course of IoT/Bigdata/AI technology convergence developers for autonomous driving. (2023.01 - 2023.07)
-- Seoul software academy, Training course of Training AI developers in generative/conversational AI using ChatGPT.  (2023.08 - present) 
+- Seoul software academy, Training course of Training AI developers in generative/conversational AI using ChatGPT.  (2023.08 - 2023.12) 
